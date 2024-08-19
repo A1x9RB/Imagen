@@ -1,0 +1,29 @@
+body {
+    background-image: url(Images/1704226643846.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+}
+
+h1 {
+    font-family: agency fb;
+    font-size: 20vh;
+    text-shadow: 
+    0 0 10px rgba(255,255,255,1),
+    0 0 20px rgba(255,255,255,1),
+    0 0 30px rgba(255,255,255,1),
+    0 0 40px #e5e5e5,
+    0 0 50px #e5e5e5,
+    0 0 60px #e5e5e5;
+}
+
+h1:hover {
+    text-shadow: 
+    0 0 10px rgba(255,255,255,1),
+    0 0 20px rgba(255,255,255,1),
+    0 0 30px rgba(255,255,255,1),
+    0 0 40px #7094f8,
+    0 0 70px #7094f8,
+    0 0 80px #7094f8,
+    0 0 100px #7094f8;
+}
